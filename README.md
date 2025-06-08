@@ -1,5 +1,8 @@
+
 This repository contains procedures used in my Masters thesis 2025.
 
+
+Nanopore sequences:
 Bioinformatics_Nanopore_Protocol_public_v1.md contains a sequencial approach for processing genomic DNA data sequenced by Oxford Nanopore.
 
 multi_txt_to_excel_converter.py : converts multiple text files into one excel file. (GAI generated)
@@ -11,3 +14,12 @@ All the individual csv files are gathered into a collective sheet before proceed
 
 Hyddbheatmap.R contains code for generating heatmap from prepared excel file made from instructions above.
 
+
+
+
+
+
+
+Illumina sequences:
+
+Decontamination.R : for decontaminating scaffold files.
