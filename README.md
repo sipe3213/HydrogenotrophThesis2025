@@ -16,10 +16,6 @@ Hyddbheatmap.R contains code for generating heatmap from prepared excel file mad
 
 
 
+Illumina_bioinformatics: Used to process Illumina sequenced files recieved from No-methane project. All credit to molecular microbiology course at Aarhus University and Ian Marshall. 
 
-
-
-
-Illumina sequences:
-
-Decontamination.R : for decontaminating scaffold files.
+Decontamination.R : for decontaminating scaffold files, credit from molecular microbiology.
